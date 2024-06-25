@@ -7,4 +7,4 @@ To work, it requires aiidalab-qe-vibroscopy installed.
 
 Just open the Detached_app.ipynb jupyter notebook.
 
-Example data for graphite are contained in the *data* folder. The graphite.cif file is just for reference, it is not required to be uploaded in the app. 
+Example data for graphite are contained in the examples/graphite folder. The graphite.cif file is just for reference, it is not required to be uploaded in the app. 
